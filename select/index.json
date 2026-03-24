@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "素直になりたい子の話。",
+  "base_artist": "りりあ。",
+  "createdAt": "2026-03-24T16:49:28.073700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素直になりたい子の話。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_素直になりたい子の話。_りりあ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素直になりたい子の話。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_素直になりたい子の話。_りりあ。.txt"
+    }
+  ]
+}
